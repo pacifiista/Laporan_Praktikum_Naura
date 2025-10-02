@@ -1,7 +1,7 @@
 # Jobsheet 4 Version Control System
- Nama   : Naura Fadhilla Aditya Putri
- Nim    : 254107020007
- Kelas  : TI-1C
+ <h1> Nama   : Naura Fadhilla Aditya Putri </h1>
+ <h3> Nim    : 254107020007 </h3>
+ <h3> Kelas  : TI-1C </h3>
 
  ## 2.1 Percobaan menggunakan Github
  Setelah mengikuti modul Jobsheet 4 dari awal pembuatan akun Github hingga menguji fungsionalitas kode berikut ialah hasilnya:
